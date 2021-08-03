@@ -5,9 +5,9 @@
 % the image name consider the whole image name witht he extention like if
 % your image name is cameraman so write cameraman.tiff.I have used 2 images
 % ,1)final.jpg 2)final2.jpg.I have included both images. 
-% clc;
-% close all;
-% clear all;
+clc;
+close all;
+clear all;
 %% Input Paramters
 
 Kernel_size = input('Enter the Kernel Size = ');% giving kernel size
